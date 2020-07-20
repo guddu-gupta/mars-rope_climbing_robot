@@ -3,7 +3,7 @@
 <!-- image -->
 
 
-## **Abstract **
+## **Abstract**
 ------------------------
 <!-- abstract-->
 ## **Motivation**
