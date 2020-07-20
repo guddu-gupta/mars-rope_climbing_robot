@@ -1,6 +1,7 @@
 #	**Rope climbing robot**
 
 <!-- image -->
+![]()
 
 
 ## **Abstract**
