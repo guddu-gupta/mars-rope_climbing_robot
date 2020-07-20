@@ -1,9 +1,9 @@
 #	**Rope climbing robot**
 
-<!--- image -->
+<!-- image -->
 
 
-##  **Abstract **
+## **Abstract **
 ------------------------
 <!--- abstract-->
 ## **Motivation**
