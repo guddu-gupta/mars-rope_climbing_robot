@@ -1,9 +1,7 @@
 #	**Rope climbing robot**
 
 <!-- image -->
-![](https://github.com/adityatidke/adityatidke.github.io/commit/5c0ad2f9e599ef6a9375ee61c7d08d7737ffc7b2)
-!{}(https://play.google.com/store/apps/dev?id=5700313618786177705&hl=en_US)
-
+![model](https://user-images.githubusercontent.com/68514096/87931987-5bb31180-caa8-11ea-8a0c-c711afa2c4e9.jpg)
 
 ## **Abstract**
 ------------------------
