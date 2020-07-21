@@ -20,7 +20,7 @@
 
 | materials|cost|
 |:-----|:-----|
-|afdsf|adfs|
+|||
 
 ## **Applications**
 -----
