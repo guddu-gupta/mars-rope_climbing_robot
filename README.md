@@ -41,6 +41,7 @@ Robot is primarily designed for surveillence purposes. This robot can even be us
 equipped to track the targeted object under surveillance. Robot can also be used to clean walls and glasses which are unreachable for humans. Dropping weights
 and carrying weights to a specific heights are some obvious tasks which this robot can perform. Construction industry can use the robot for taking or dropping 
 weights. Cinematographers can also use the robot as it offers the ability to take pictures or make videos for various heights.
+
 ----
 
 <!-- apllications-->
